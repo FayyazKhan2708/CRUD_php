@@ -1,0 +1,21 @@
+body {
+    max-width: 500px;
+    margin:0 auto;
+}
+input {
+    display: block;
+    margin: 10px;
+    width: 100%;
+    padding: 10px;
+}
+.btn {
+    width: 100px;
+    background-color: rgb(6, 120, 73);
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
+th,td{
+    border: 1px double black;
+    padding: 5px;
+}
